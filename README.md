@@ -11,19 +11,6 @@
 
 ---
 
-###  About Me
-
-```typescript
-const deni = {
-    role: "Junior Frontend Developer",
-    location: "Indonesia 🇮🇩",
-    education: "Informatics Student",
-    currentFocus: ["Next.js", "TypeScript", "Modern UI/UX"],
-    interests: ["Web Development", "Clean Code", "Responsive Design"],
-    lifePhilosophy: "Learn by building, improve by iterating 🎯"
-};
-```
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
@@ -71,33 +58,6 @@ const deni = {
 
 <br clear="right"/>
 
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=denihimawan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=denihimawan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denihimawan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denihimawan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
-##  GitHub Trophies
-
-<div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=denihimawan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies](https://github-profile-trophy.vercel.app/?username=denihimawan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)"/>
-</div>
-
----
-
 ##  Featured Projects
 
 <div align="center">
@@ -112,15 +72,6 @@ const deni = {
 
 </div>
 
----
-
-##  Contribution Graph
-
-<div align="center">
-  <img src="[https://raw.githubusercontent.com/denihimawan/denihimawan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=denihimawan&theme=github-compact&hide_border=true&area=true)" />
-</div>
-
----
 
 ##  Let's Connect!
 

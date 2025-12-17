@@ -117,7 +117,7 @@ const deni = {
 ##  Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/denihimawan/denihimawan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="[https://raw.githubusercontent.com/denihimawan/denihimawan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=denihimawan&theme=github-compact&hide_border=true&area=true)" />
 </div>
 
 ---

@@ -16,11 +16,11 @@
 ```typescript
 const deni = {
     role: "Junior Frontend Developer",
-    location: "Indonesia",
+    location: "Indonesia 🇮🇩",
     education: "Informatics Student",
     currentFocus: ["Next.js", "TypeScript", "Modern UI/UX"],
     interests: ["Web Development", "Clean Code", "Responsive Design"],
-    lifePhilosophy: "Learn by building, improve by iterating"
+    lifePhilosophy: "Learn by building, improve by iterating 🎯"
 };
 ```
 
@@ -61,7 +61,7 @@ const deni = {
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
--  **Next.js** - Mastering App Router & SSR
+-  **Next.js** - Learning App Router
 -  **TypeScript** - Type-safe development
 -  **Tailwind CSS** - Modern utility-first CSS
 -  **Git & GitHub** - Version control workflow
@@ -73,7 +73,7 @@ const deni = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=denihimawan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -93,7 +93,7 @@ const deni = {
 ##  GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=denihimawan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
+  <img src="[https://github-profile-trophy.vercel.app/?username=denihimawan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies](https://github-profile-trophy.vercel.app/?username=denihimawan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)"/>
 </div>
 
 ---

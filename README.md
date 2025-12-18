@@ -44,17 +44,39 @@
 
 ## Currently Learning
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table>
+<tr>
+<td width="50%" valign="top">
+Frontend Mastery
+yamlframework: Next.js
+  - App Router & Server Components
+  - Static & Dynamic Rendering
+  - API Routes
 
--  **Next.js** - Learning App Router
--  **TypeScript** - Type-safe development
--  **Tailwind CSS** - Modern utility-first CSS
--  **Git & GitHub** - Version control workflow
--  **Clean Architecture** - Scalable code patterns
--  **REST APIs** - Integration & data fetching
--  **Responsive Design** - Mobile-first approach
+language: TypeScript
+  - Type Safety & Interfaces
+  - Generics & Advanced Types
+  - Best Practices
 
-<br clear="right"/>
+styling: Tailwind CSS
+  - Utility-First Approach
+  - Custom Components
+  - Responsive Design
+</td>
+<td width="50%" valign="top">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+Development Skills
+yamlversion_control:
+  - Git workflow & branching
+  - Collaborative development
+  
+architecture:
+  - Clean Code principles
+  - Component patterns
+  - REST API integration
+</td>
+</tr>
+</table>
 
 ##  Featured Projects
 
@@ -85,7 +107,7 @@
   <a href="mailto:denihimawan595@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[https://instagram.com/yourusername](https://www.instagram.com/denihmwn_/)">
+  <a href="https://www.instagram.com/denihmwn_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>

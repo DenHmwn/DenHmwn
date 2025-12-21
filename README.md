@@ -98,7 +98,7 @@ architecture:
 <div align="center">
 
 <p>
-  <a href="www.linkedin.com/in/deni-himawan-profile/">
+  <a href="linkedin.com/in/deni-himawan-profile/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/denihimawan">

@@ -62,8 +62,7 @@ styling: Tailwind CSS
   - Custom Components
   - Responsive Design
 </td>
-<td width="50%" valign="top">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+<td width="50%" valign="top" align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="90%">
 Development Skills
 yamlversion_control:
   - Git workflow & branching
@@ -83,11 +82,12 @@ architecture:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🔹 **Portfolio Website** | Personal portfolio with modern design | Next.js, Tailwind CSS |
-| 🔹 **Component Library** | Reusable UI components | React, TypeScript |
-| 🔹 **Landing Pages** | Responsive landing page templates | HTML, CSS, JavaScript |
+| 🔹 **Lost and Found** | Website Lost and Found Items in Campus (Dummy) | Next.js, Tailwind CSS, ORM Prisma, PostgreSQL |
+| 🔹 **Detect Cat** | Website Detect Object Image Cat or Non-Cat | Python, CNN |
+| 🔹 **Kavling Tanah Apps Mobile** | Application Mobile for Managing Land Sales and Reservation Scheduling.
+ | Flutter |
 
->  More exciting projects coming soon! Stay tuned 
+<i> More exciting projects coming soon! Stay tuned </i>
 
 </div>
 

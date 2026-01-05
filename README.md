@@ -84,8 +84,7 @@ architecture:
 |---------|-------------|------------|
 | 🔹 **Lost and Found** | Website Lost and Found Items in Campus (Dummy) | Next.js, Tailwind CSS, ORM Prisma, PostgreSQL |
 | 🔹 **Detect Cat** | Website Detect Object Image Cat or Non-Cat | Python, CNN |
-| 🔹 **Kavling Tanah Apps Mobile** | Application Mobile for Managing Land Sales and Reservation Scheduling.
- | Flutter |
+| 🔹 **Kavling Tanah Apps Mobile** | Application Mobile for Managing Land Sales and Reservation Scheduling | Flutter |
 
 <i> More exciting projects coming soon! Stay tuned </i>
 

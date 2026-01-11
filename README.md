@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -29,19 +29,19 @@ const deniHimawan = {
     location: "Indonesia 🇮🇩",
     education: "Computer Science Student",
     currentFocus: ["Next.js", "TypeScript", "React"],
-    lifePhilosophy: "Code, Learn, Improve, Repeat 🔄",
-    funFact: "I debug with console.log() 😄"
+    lifePhilosophy: "Code, Learn, Improve, Repeat",
+    funFact: "I debug with console.log()"
 };
 
 console.log(deniHimawan);
 ```
 
-- 🔭 Currently working on **Full-Stack Web Applications**
-- 🌱 Learning **Next.js App Router** and **TypeScript**
-- 💡 Interested in **UI/UX Design** and **Modern Web Technologies**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 📫 Reach me at **denihimawan595@gmail.com**
-- ⚡ Fun fact: **I believe great UX starts with great code!**
+-  Currently working on **Full-Stack Web Applications**
+-  Learning **Next.js App Router** and **TypeScript**
+-  Interested in **UI/UX Design** and **Modern Web Technologies**
+-  Looking to collaborate on **Open Source Projects**
+-  Reach me at **denihimawan595@gmail.com**
+-  Fun fact: **I believe great UX starts with great code!**
 
 <br clear="right"/>
 
@@ -51,25 +51,25 @@ console.log(deniHimawan);
 
 <div align="center">
 
-### 💻 Frontend Technologies
+### Frontend Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Skills"/>
 </p>
 
-### 🔧 Backend & Database
+### Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,mongodb" alt="Backend Skills"/>
 </p>
 
-### 🛠️ Tools & Platform
+### Tools & Platform
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,docker" alt="Tools"/>
 </p>
 
-### 📱 Mobile & Others
+### Mobile & Others
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,python,cpp,linux" alt="Others"/>
@@ -79,72 +79,58 @@ console.log(deniHimawan);
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=denihimawan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=denihimawan&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denihimawan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=denihimawan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=ffffff" />
-
-</div>
-
----
-
-## 🎯 Currently Learning
+## Currently Learning
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Frontend Mastery
+### Frontend Mastery
 
 ```yaml
 framework: Next.js
-  ⚡ App Router & Server Components
-  🎯 Static & Dynamic Rendering
-  🔌 API Routes & Server Actions
-  🚀 Performance Optimization
+   App Router & Server Components
+   Static & Dynamic Rendering
+   API Routes & Server Actions
+   Performance Optimization
 
 language: TypeScript
-  ✨ Type Safety & Interfaces
-  🔥 Generics & Advanced Types
-  📚 Best Practices & Patterns
-  🎓 Clean Code Principles
+   Type Safety & Interfaces
+   Generics & Advanced Types
+   Best Practices & Patterns
+   Clean Code Principles
 
 styling: Tailwind CSS
-  🎨 Utility-First Approach
-  🧩 Custom Components
-  📱 Responsive Design
-  🌈 Modern UI Patterns
+   Utility-First Approach
+   Custom Components
+   Responsive Design
+   Modern UI Patterns
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Development Skills
+###  Development Skills
 
 ```yaml
 version_control:
-  🌿 Git workflow & branching
-  🤝 Collaborative development
-  📦 GitHub Actions & CI/CD
+   Git workflow & branching
+   Collaborative development
+   GitHub Actions & CI/CD
   
 architecture:
-  🏗️ Clean Code principles
-  🎯 Component-based design
-  🔄 REST API integration
-  💾 State Management (Redux)
+   Clean Code principles
+   Component-based design
+   REST API integration
+   State Management (Redux)
   
 testing:
-  ✅ Unit & Integration Testing
-  🧪 Test-Driven Development
+   Unit & Integration Testing
+   Test-Driven Development
   
 performance:
-  ⚡ Code Optimization
-  🎯 Web Vitals & SEO
+   Code Optimization
+   Web Vitals & SEO
 ```
 
 </td>
@@ -153,7 +139,7 @@ performance:
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -170,14 +156,14 @@ performance:
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <p><strong>Website Lost and Found Items in Campus</strong></p>
-<p>🎯 Full-stack web application for managing lost and found items with modern UI/UX</p>
+<p> Full-stack web application for managing lost and found items with modern UI/UX</p>
 
 </div>
 
 </td>
 <td width="50%">
 
-<h3 align="center">🐱 Cat Detection AI</h3>
+<h3 align="center"> Cat Detection AI</h3>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -185,7 +171,7 @@ performance:
 <img src="https://img.shields.io/badge/CNN-00599C?style=for-the-badge&logo=cnn&logoColor=white" />
 
 <p><strong>Object Detection System</strong></p>
-<p>🤖 AI-powered image classification using Convolutional Neural Networks to detect cats</p>
+<p> AI-powered image classification using Convolutional Neural Networks to detect cats</p>
 
 </div>
 
@@ -195,27 +181,27 @@ performance:
 <tr>
 <td width="50%">
 
-<h3 align="center">📱 Kavling Tanah Mobile App</h3>
+<h3 align="center"> Kavling Tanah Mobile App</h3>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
 <p><strong>Land Sales Management System</strong></p>
-<p>🏡 Cross-platform mobile app for managing land sales and reservation scheduling</p>
+<p> Cross-platform mobile app for managing land sales and reservation scheduling</p>
 
 </div>
 
 </td>
 <td width="50%">
 
-<h3 align="center">🚀 More Coming Soon!</h3>
+<h3 align="center"> More Coming Soon!</h3>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
 <p><strong>Stay Tuned for More Projects!</strong></p>
-<p>💡 Working on exciting new full-stack applications</p>
+<p> Working on exciting new full-stack applications</p>
 
 </div>
 
@@ -227,27 +213,7 @@ performance:
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=denihimawan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Deni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denihimawan&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 💼 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -275,36 +241,17 @@ performance:
 
 ---
 
-## 💭 Developer Quote
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/denihimawan/denihimawan/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Show some love by starring my repositories!
+### Show some love by starring my repositories!
 
 <p>
   <i>"Great developers are not born, they are made through dedication, practice, and continuous learning."</i>
 </p>
 
 <p>
-  <strong>💻 Let's build something amazing together! 🚀</strong>
+  <strong> Let's build something amazing together! </strong>
 </p>
 
 <p>

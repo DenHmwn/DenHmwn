@@ -10,12 +10,9 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=denihimawan&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/denihimawan?label=Followers&style=for-the-badge&color=3B82F6" alt="followers" />
 </p>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -47,7 +44,7 @@ console.log(deniHimawan);
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -60,19 +57,19 @@ console.log(deniHimawan);
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,mongodb" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql" alt="Backend Skills"/>
 </p>
 
 ### Tools & Platform
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,docker" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" alt="Tools"/>
 </p>
 
 ### Mobile & Others
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,python,cpp,linux" alt="Others"/>
+  <img src="https://skillicons.dev/icons?i=flutter,python, react native" alt="Others"/>
 </p>
 
 </div>

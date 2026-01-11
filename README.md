@@ -66,10 +66,16 @@ console.log(deniHimawan);
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" alt="Tools"/>
 </p>
 
-### Mobile & Others
+### Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,python,react" alt="Others"/>
+  <img src="https://skillicons.dev/icons?i=flutter,react" alt="Mobile"/>
+</p>
+
+### Others
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Others"/>
 </p>
 
 </div>

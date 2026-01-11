@@ -69,7 +69,7 @@ console.log(deniHimawan);
 ### Mobile & Others
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,python, react native" alt="Others"/>
+  <img src="https://skillicons.dev/icons?i=flutter,python, react" alt="Others"/>
 </p>
 
 </div>

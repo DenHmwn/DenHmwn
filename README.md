@@ -1,97 +1,253 @@
 <div align="center">
 
-# 👋 Hi there, I'm Deni Himawan
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Junior+Frontend+Developer;Building+Modern+Web+Apps;Always+Learning" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=denihimawan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Deni%20Himawan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Frontend%20Developer%20|%20Building%20Modern%20Web%20Experiences&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+👋;Junior+Frontend+Developer+💻;Passionate+about+Web+Development+🚀;Always+Learning+New+Technologies+📚;Let's+Build+Something+Amazing!+✨)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=denihimawan&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/denihimawan?label=Followers&style=for-the-badge&color=3B82F6" alt="followers" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ---
 
-##  Tech Stack & Tools
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+const deniHimawan = {
+    role: "Junior Frontend Developer",
+    location: "Indonesia 🇮🇩",
+    education: "Computer Science Student",
+    currentFocus: ["Next.js", "TypeScript", "React"],
+    lifePhilosophy: "Code, Learn, Improve, Repeat 🔄",
+    funFact: "I debug with console.log() 😄"
+};
+
+console.log(deniHimawan);
+```
+
+- 🔭 Currently working on **Full-Stack Web Applications**
+- 🌱 Learning **Next.js App Router** and **TypeScript**
+- 💡 Interested in **UI/UX Design** and **Modern Web Technologies**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 📫 Reach me at **denihimawan595@gmail.com**
+- ⚡ Fun fact: **I believe great UX starts with great code!**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Frontend Technologies
+### 💻 Frontend Technologies
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Skills"/>
 </p>
 
-### Tools & Platform
+### 🔧 Backend & Database
+
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,mongodb" alt="Backend Skills"/>
+</p>
+
+### 🛠️ Tools & Platform
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,docker" alt="Tools"/>
+</p>
+
+### 📱 Mobile & Others
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,python,cpp,linux" alt="Others"/>
 </p>
 
 </div>
 
 ---
 
-## Currently Learning
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=denihimawan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=denihimawan&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denihimawan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=denihimawan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=ffffff" />
+
+</div>
+
+---
+
+## 🎯 Currently Learning
 
 <table>
 <tr>
 <td width="50%" valign="top">
-Frontend Mastery
-yamlframework: Next.js
-  - App Router & Server Components
-  - Static & Dynamic Rendering
-  - API Routes
+
+### 🎨 Frontend Mastery
+
+```yaml
+framework: Next.js
+  ⚡ App Router & Server Components
+  🎯 Static & Dynamic Rendering
+  🔌 API Routes & Server Actions
+  🚀 Performance Optimization
 
 language: TypeScript
-  - Type Safety & Interfaces
-  - Generics & Advanced Types
-  - Best Practices
+  ✨ Type Safety & Interfaces
+  🔥 Generics & Advanced Types
+  📚 Best Practices & Patterns
+  🎓 Clean Code Principles
 
 styling: Tailwind CSS
-  - Utility-First Approach
-  - Custom Components
-  - Responsive Design
+  🎨 Utility-First Approach
+  🧩 Custom Components
+  📱 Responsive Design
+  🌈 Modern UI Patterns
+```
+
 </td>
-<td width="50%" valign="top" align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="90%">
-Development Skills
-yamlversion_control:
-  - Git workflow & branching
-  - Collaborative development
+<td width="50%" valign="top">
+
+### 🚀 Development Skills
+
+```yaml
+version_control:
+  🌿 Git workflow & branching
+  🤝 Collaborative development
+  📦 GitHub Actions & CI/CD
   
 architecture:
-  - Clean Code principles
-  - Component patterns
-  - REST API integration
+  🏗️ Clean Code principles
+  🎯 Component-based design
+  🔄 REST API integration
+  💾 State Management (Redux)
+  
+testing:
+  ✅ Unit & Integration Testing
+  🧪 Test-Driven Development
+  
+performance:
+  ⚡ Code Optimization
+  🎯 Web Vitals & SEO
+```
+
 </td>
 </tr>
 </table>
 
-##  Featured Projects
+---
+
+## 🏆 Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔹 **Lost and Found** | Website Lost and Found Items in Campus (Dummy) | Next.js, Tailwind CSS, ORM Prisma, PostgreSQL |
-| 🔹 **Detect Cat** | Website Detect Object Image Cat or Non-Cat | Python, CNN |
-| 🔹 **Kavling Tanah Apps Mobile** | Application Mobile for Managing Land Sales and Reservation Scheduling | Flutter |
+<table>
+<tr>
+<td width="50%">
 
-<i> More exciting projects coming soon! Stay tuned </i>
+<h3 align="center">🔍 Lost and Found System</h3>
+
+<div align="center">  
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<p><strong>Website Lost and Found Items in Campus</strong></p>
+<p>🎯 Full-stack web application for managing lost and found items with modern UI/UX</p>
 
 </div>
 
+</td>
+<td width="50%">
 
-##  Let's Connect!
+<h3 align="center">🐱 Cat Detection AI</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/CNN-00599C?style=for-the-badge&logo=cnn&logoColor=white" />
+
+<p><strong>Object Detection System</strong></p>
+<p>🤖 AI-powered image classification using Convolutional Neural Networks to detect cats</p>
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">📱 Kavling Tanah Mobile App</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
+<p><strong>Land Sales Management System</strong></p>
+<p>🏡 Cross-platform mobile app for managing land sales and reservation scheduling</p>
+
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🚀 More Coming Soon!</h3>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+<p><strong>Stay Tuned for More Projects!</strong></p>
+<p>💡 Working on exciting new full-stack applications</p>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=denihimawan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Deni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denihimawan&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💼 Connect With Me
 
 <div align="center">
 
@@ -108,16 +264,53 @@ architecture:
   <a href="https://www.instagram.com/denihmwn_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://twitter.com/denihimawan">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-###  Let's build something amazing together!
+</div>
 
-<p align="center">
-  <i> Feel free to explore my repositories and follow my learning journey!</i>
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/denihimawan/denihimawan/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Show some love by starring my repositories!
+
+<p>
+  <i>"Great developers are not born, they are made through dedication, practice, and continuous learning."</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<p>
+  <strong>💻 Let's build something amazing together! 🚀</strong>
+</p>
+
+<p>
+  <i>Feel free to explore my repositories and join me on this coding journey!</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 </div>

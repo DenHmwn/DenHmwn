@@ -84,8 +84,8 @@ console.log(deniHimawan);
 
 ## Currently Learning
 
-<table>
-<tr justify-content="center">
+<table align="center">
+<tr?
 <td width="50%" valign="top">
 
 ### Frontend Mastery

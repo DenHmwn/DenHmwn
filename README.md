@@ -84,7 +84,7 @@ console.log(deniHimawan);
 
 ## Currently Learning
 
-<table align="center">
+<table>
 <tr?
 <td width="50%" valign="top">
 

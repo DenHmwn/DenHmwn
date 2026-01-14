@@ -84,7 +84,7 @@ console.log(deniHimawan);
 
 ## Currently Learning
 
-<table>
+<table justify-content="center">
 <tr>
 <td width="50%" valign="top">
 

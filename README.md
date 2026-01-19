@@ -15,59 +15,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
-
-</td>
-<td width="50%">
-
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  education: string;
-  currentlyWorking: string[];
-  passions: string[];
-  goal: string;
-}
-
-const deniHimawan: Developer = {
-  name: "Deni Himawan",
-  role: "Junior Frontend Developer",
-  location: "Indonesia 🇮🇩",
-  education: "Computer Science Student",
-  currentlyWorking: [
-    "Next.js 14 App Router",
-    "TypeScript Magic",
-    "Full-Stack Projects"
-  ],
-  passions: [
-    "Clean Code Architecture",
-    "UI/UX Excellence",
-    "Performance Optimization"
-  ],
-  goal: "Build products that people love ❤️"
-};
-
-export default deniHimawan;
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
 <div align="center">
 
 ### 👨‍💻 What I Do
@@ -128,15 +75,15 @@ Pixel-perfect UI<br/>& smooth UX
 <br/><strong>Frontend</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" />
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
 <br/><strong>Backend</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
-<br/><strong>Database</strong>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" />
+<br/><strong>Version Control</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
 <br/><strong>Tools</strong>
 </td>
 </tr>

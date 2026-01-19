@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Deni%20Himawan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20with%20Code%20%F0%9F%9A%80&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Deni%20Himawan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20with%20Code%20&descAlignY=58&descSize=20" width="100%"/>
 
 </div>
 
@@ -15,7 +15,9 @@
 
 </div>
 
-## Tech Arsenal
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## Tech
 
 <div align="center">
 
@@ -71,6 +73,8 @@
 </p>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## Learning Journey
 
@@ -225,6 +229,8 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## GitHub Analytics
 
 <div align="center">
@@ -241,10 +247,7 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 
 ### GitHub Achievements
 
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=DenHmwn&theme=tokyonight&no-frame=true&no-bg=true&cache_seconds=1800" 
-  width="100%" 
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=DenHmwn&theme=tokyonight&no-frame=true&no-bg=true" width="100%">
 
 ### Contribution Graph
 

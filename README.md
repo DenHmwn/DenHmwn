@@ -28,7 +28,7 @@
 <br/><strong>Frontend</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-white.gif" width="100" alt="Express White" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100" alt="Express" style="filter: invert(1);" />
 <br/><strong>Backend</strong>
 </td>
 <td align="center" width="25%">

@@ -135,12 +135,12 @@
 
 Full-stack web application designed to help campus community manage lost and found items efficiently with modern UI/UX and real-time features.
 
-** Key Features:**
+### Key Features
 -  **Responsive Design** - Seamless experience across all devices
 -  **Secure Authentication** - Protected user accounts and data
 -  **Analytics Dashboard** - Track and manage all items
 
-** Technical Highlights:**
+### Technical Highlights
 - Server-side rendering for optimal performance
 - Progressive Web App (PWA) capabilities
 - Optimized images with Next.js Image component
@@ -211,7 +211,7 @@ Convolutional Neural Network (CNN) model for accurate cat detection and breed cl
 
 Cross-platform mobile application for managing land sales, reservations, and payment tracking with intuitive interface.
 
-** Key Features:**
+### Key Features
 -  **Interactive Map View** - Visual plot selection and location
 -  **Payment Integration** - Secure payment gateway integration
 -  **Booking System** - Schedule and manage reservations
@@ -219,7 +219,7 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 -  **Real-time Sync** - Cloud synchronization across devices
 -  **User Management** - Role-based access control
 
-** Technical Highlights:**
+### Technical Highlights
 - Clean architecture pattern
 - State management with Provider/Bloc
 - Offline-first capabilities

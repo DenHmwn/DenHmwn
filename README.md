@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Tech
+## Tech Stack
 
 <div align="center">
 
@@ -100,7 +100,7 @@
 <sub>Modern styling</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.svg" width="80"><br/>
 <strong>System Design</strong><br/>
 <sub>Architecture patterns</sub>
 </td>
@@ -244,10 +244,6 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 </div>
 
 <div align="center">
-
-### GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=DenHmwn&theme=tokyonight&no-frame=true&no-bg=true" width="100%">
 
 ### Contribution Graph
 

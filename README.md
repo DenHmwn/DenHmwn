@@ -167,7 +167,7 @@ Full-stack web application designed to help campus community manage lost and fou
 
 Convolutional Neural Network (CNN) model for accurate cat detection and breed classification using deep learning techniques.
 
-** Key Features:**
+### Key Features
 -  **Deep Learning Model** - Custom CNN architecture for high accuracy
 -  **90%+ Accuracy** - Trained on large dataset with excellent results
 -  **Real-time Processing** - Fast inference for instant predictions
@@ -175,7 +175,7 @@ Convolutional Neural Network (CNN) model for accurate cat detection and breed cl
 -  **Multi-class Detection** - Classify different cat breeds
 -  **Model Optimization** - Lightweight model for deployment
 
-** Technical Highlights:**
+### Technical Highlights
 - Transfer learning with pre-trained models
 - Data augmentation for better generalization
 - Confusion matrix analysis
@@ -188,7 +188,6 @@ Convolutional Neural Network (CNN) model for accurate cat detection and breed cl
 <!-- Kavling Tanah App -->
 <details>
 <summary>
-<img src="https://user-images.githubusercontent.com/74038190/216122049-276c7e88-3c94-445c-84f6-2af6b2b9e1f1.png" width="20" /> 
 <strong>Kavling Tanah App</strong> - Land Sales Management System
 </summary>
 
@@ -226,8 +225,6 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216120986-f9384dc9-4be0-494a-92d2-0c676e45d551.png" width="30" /> GitHub Analytics
 
 <div align="center">
@@ -242,11 +239,11 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 
 <div align="center">
 
-### 🏆 GitHub Achievements
+### GitHub Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=DenHmwn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenHmwn&custom_title=Deni's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=FFFFFF&hide_border=true&area=true&area_color=667eea" width="100%"/>
 
@@ -278,15 +275,15 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### 💭 Quote of the Day
+### Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="700" />
 
 <br/>
-
+<br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
 
-### 🚀 Let's Build Something Amazing Together!
+### Let's Build Something Amazing Together!
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 

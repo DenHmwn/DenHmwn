@@ -75,7 +75,7 @@ Pixel-perfect UI<br/>& smooth UX
 <br/><strong>Frontend</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="120" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="120" />
 <br/><strong>Backend</strong>
 </td>
 <td align="center" width="25%">

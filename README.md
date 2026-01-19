@@ -28,7 +28,8 @@
 <br/><strong>Frontend</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=express&theme=dark" width="100" alt="Express" />
+<!-- <img src="https://skillicons.dev/icons?i=express&theme=dark" width="100" alt="Express" /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="100" alt="Express" style="filter: brightness(0) invert(1);" />
 <br/><strong>Backend</strong>
 </td>
 <td align="center" width="25%">

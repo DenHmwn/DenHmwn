@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Frontend+Developer+%7C+Problem+Solver;Building+Beautiful+%26+Functional+Web+Apps;Turning+Coffee+%E2%98%95+into+Code+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Frontend+Developer+%7C+Problem+Solver;Building+Beautiful+%26+Functional+Web+Apps)]
 
 <br/>
 
@@ -14,55 +14,6 @@
 <img src="https://img.shields.io/github/followers/DenHmwn?label=Followers&style=for-the-badge&color=764ba2&logo=github" alt="followers" />
 
 </div>
-
-<div align="center">
-
-### 👨‍💻 What I Do
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"><br/>
-<strong>Building</strong><br/>
-Full-stack web applications<br/>with modern technologies
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"><br/>
-<strong>Learning</strong><br/>
-Next.js, TypeScript<br/>& System Design
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"><br/>
-<strong>Creating</strong><br/>
-Pixel-perfect UI<br/>& smooth UX
-</td>
-</tr>
-</table>
-
-### 🎯 Quick Facts
-
-<table>
-<tr>
-<td>🤝</td>
-<td>Open to <strong>collaborate</strong> on innovative open-source projects</td>
-</tr>
-<tr>
-<td>💬</td>
-<td>Ask me about <strong>React</strong>, <strong>Next.js</strong>, or <strong>Web Development</strong></td>
-</tr>
-<tr>
-<td>📫</td>
-<td>Reach me at <strong>denihimawan595@gmail.com</strong></td>
-</tr>
-<tr>
-<td>⚡</td>
-<td>Fun fact: <strong>I believe the best code is the code you don't have to write!</strong></td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Arsenal
 
@@ -98,7 +49,7 @@ Pixel-perfect UI<br/>& smooth UX
 ### Database & ORM
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,mongodb&perline=8" />
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql&perline=8" />
 </p>
 
 ### Development Tools
@@ -110,7 +61,7 @@ Pixel-perfect UI<br/>& smooth UX
 ### Mobile Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,react&perline=6" />
 </p>
 
 ### Learning & Exploring
@@ -121,13 +72,11 @@ Pixel-perfect UI<br/>& smooth UX
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Learning Journey
 
 <div align="center">
 
-### 🎓 Current Focus Areas
+### Current Focus Areas
 
 <table>
 <tr>
@@ -142,7 +91,7 @@ Pixel-perfect UI<br/>& smooth UX
 <sub>Type-safe development</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="80" height="80"><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="80" height="80"><br/>
 <strong>Tailwind CSS</strong><br/>
 <sub>Modern styling</sub>
 </td>
@@ -154,77 +103,17 @@ Pixel-perfect UI<br/>& smooth UX
 </tr>
 </table>
 
-### 📚 Skills & Expertise
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="20" /> Frontend Development
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-
-- ⚡ Server & Client Components
-- 🎯 Static & Dynamic Rendering
-- 🔄 API Routes & Server Actions
-- 🎨 Responsive Design Systems
-- 🌙 Dark Mode Implementation
-- ✨ Animation & Transitions
-
-</td>
-<td width="33%" valign="top">
-
-#### <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="20" /> Backend & Database
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-
-- 🗃️ Database Design & ORM
-- 🔐 Authentication & Security
-- 📡 RESTful API Development
-- 🚀 Performance Optimization
-- 💾 Data Modeling
-- 🔄 Real-time Features
-
-</td>
-<td width="33%" valign="top">
-
-#### <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="20" /> Best Practices
-
-<img src="https://img.shields.io/badge/Clean_Code-008000?style=flat-square&logo=code&logoColor=white" />
-<img src="https://img.shields.io/badge/Testing-FF6C37?style=flat-square&logo=testing-library&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-- 📐 SOLID Principles
-- 🧩 Component Architecture
-- 🎭 State Management Patterns
-- 🧪 Testing & Quality Assurance
-- 📊 Performance Monitoring
-- 🔍 SEO Optimization
-
-</td>
-</tr>
-</table>
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Projects
 
 <div align="center">
-
-### 🚀 My Work
 
 </div>
 
 <!-- Lost & Found System -->
 <details open>
 <summary>
-<img src="https://user-images.githubusercontent.com/74038190/216122003-15d8bfb6-5a13-4c44-ac67-eec74f02be0a.png" width="20" /> 
 <strong>Lost & Found System</strong> - Campus Lost & Found Platform
 </summary>
 
@@ -244,15 +133,12 @@ Pixel-perfect UI<br/>& smooth UX
 
 Full-stack web application designed to help campus community manage lost and found items efficiently with modern UI/UX and real-time features.
 
-**🎯 Key Features:**
-- 🔍 **Smart Search Engine** - Advanced filtering and search capabilities
-- 📸 **Image Recognition** - AI-powered image matching for lost items
-- 🔔 **Real-time Notifications** - Instant alerts for item matches
-- 📱 **Responsive Design** - Seamless experience across all devices
-- 🔐 **Secure Authentication** - Protected user accounts and data
-- 📊 **Analytics Dashboard** - Track and manage all items
+** Key Features:**
+-  **Responsive Design** - Seamless experience across all devices
+-  **Secure Authentication** - Protected user accounts and data
+-  **Analytics Dashboard** - Track and manage all items
 
-**💡 Technical Highlights:**
+** Technical Highlights:**
 - Server-side rendering for optimal performance
 - Progressive Web App (PWA) capabilities
 - Optimized images with Next.js Image component
@@ -265,7 +151,6 @@ Full-stack web application designed to help campus community manage lost and fou
 <!-- Cat Detection AI -->
 <details>
 <summary>
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="20" /> 
 <strong>Cat Detection AI</strong> - AI-Powered Image Classification
 </summary>
 
@@ -284,15 +169,15 @@ Full-stack web application designed to help campus community manage lost and fou
 
 Convolutional Neural Network (CNN) model for accurate cat detection and breed classification using deep learning techniques.
 
-**🎯 Key Features:**
-- 🤖 **Deep Learning Model** - Custom CNN architecture for high accuracy
-- 📊 **95%+ Accuracy** - Trained on large dataset with excellent results
-- 🖼️ **Real-time Processing** - Fast inference for instant predictions
-- 📈 **Training Visualization** - Interactive charts for model performance
-- 🎯 **Multi-class Detection** - Classify different cat breeds
-- 💾 **Model Optimization** - Lightweight model for deployment
+** Key Features:**
+-  **Deep Learning Model** - Custom CNN architecture for high accuracy
+-  **90%+ Accuracy** - Trained on large dataset with excellent results
+-  **Real-time Processing** - Fast inference for instant predictions
+-  **Training Visualization** - Interactive charts for model performance
+-  **Multi-class Detection** - Classify different cat breeds
+-  **Model Optimization** - Lightweight model for deployment
 
-**💡 Technical Highlights:**
+** Technical Highlights:**
 - Transfer learning with pre-trained models
 - Data augmentation for better generalization
 - Confusion matrix analysis
@@ -313,6 +198,8 @@ Convolutional Neural Network (CNN) model for accurate cat detection and breed cl
 
 <div align="center">
 
+<h2><bold>In Progress</bold></h2>
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -323,15 +210,15 @@ Convolutional Neural Network (CNN) model for accurate cat detection and breed cl
 
 Cross-platform mobile application for managing land sales, reservations, and payment tracking with intuitive interface.
 
-**🎯 Key Features:**
-- 📍 **Interactive Map View** - Visual plot selection and location
-- 💳 **Payment Integration** - Secure payment gateway integration
-- 📅 **Booking System** - Schedule and manage reservations
-- 📊 **Sales Analytics** - Real-time sales reports and statistics
-- 🔄 **Real-time Sync** - Cloud synchronization across devices
-- 👥 **User Management** - Role-based access control
+** Key Features:**
+-  **Interactive Map View** - Visual plot selection and location
+-  **Payment Integration** - Secure payment gateway integration
+-  **Booking System** - Schedule and manage reservations
+-  **Sales Analytics** - Real-time sales reports and statistics
+-  **Real-time Sync** - Cloud synchronization across devices
+-  **User Management** - Role-based access control
 
-**💡 Technical Highlights:**
+** Technical Highlights:**
 - Clean architecture pattern
 - State management with Provider/Bloc
 - Offline-first capabilities
@@ -340,39 +227,6 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 </details>
 
 <br/>
-
-<!-- Coming Soon Projects -->
-<div align="center">
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> More Projects Coming Soon!
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="250">
-
-**Currently Building:**
-
-<table>
-<tr>
-<td align="center" width="20%">
-🛒<br/><strong>E-commerce</strong><br/>Platform
-</td>
-<td align="center" width="20%">
-📝<br/><strong>Blog CMS</strong><br/>System
-</td>
-<td align="center" width="20%">
-🎮<br/><strong>Game</strong><br/>Portal
-</td>
-<td align="center" width="20%">
-📱<br/><strong>Social Media</strong><br/>App
-</td>
-<td align="center" width="20%">
-🤝<br/><strong>Collaboration</strong><br/>Tools
-</td>
-</tr>
-</table>
-
-*Stay tuned for exciting new projects that push the boundaries!*
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -429,58 +283,6 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 ### 💭 Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600" />
-
-<br/>
-
-### 🎯 Current Status
-
-```javascript
-while (alive) {
-  eat();
-  sleep();
-  code();
-  repeat();
-}
-```
-
-<br/>
-
-### 🌟 Fun Facts About Me
-
-<table>
-<tr>
-<td align="center">☕</td>
-<td>Coffee enthusiast - Code runs on caffeine!</td>
-</tr>
-<tr>
-<td align="center">🐛</td>
-<td>I still debug with console.log() and I'm not ashamed!</td>
-</tr>
-<tr>
-<td align="center">🌙</td>
-<td>Night owl coder - Best code happens after midnight</td>
-</tr>
-<tr>
-<td align="center">📚</td>
-<td>Always learning - The tech world never sleeps!</td>
-</tr>
-<tr>
-<td align="center">🎮</td>
-<td>Gamer at heart - Gaming breaks = creative solutions</td>
-</tr>
-</table>
-
-<br/>
-
-### 💜 Show Some Love!
-
-<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d72282263c73.gif" width="100">
-
-**If you like my work, consider:**
-- ⭐ Starring my repositories
-- 🤝 Following me on GitHub
-- 💬 Connecting on LinkedIn
-- 📧 Reaching out for collaboration
 
 <br/>
 

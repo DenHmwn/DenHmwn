@@ -28,7 +28,7 @@
 <br/><strong>Frontend</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="120" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="120"/>
 <br/><strong>Backend</strong>
 </td>
 <td align="center" width="25%">
@@ -100,7 +100,7 @@
 <sub>Modern styling</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.svg" width="80"><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" height="80"><br/>
 <strong>System Design</strong><br/>
 <sub>Architecture patterns</sub>
 </td>

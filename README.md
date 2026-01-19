@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Frontend+Developer+%7C+Problem+Solver;Building+Beautiful+%26+Functional+Web+Apps)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Frontend+Developer+%7C+Problem+Solver;Building+Beautiful+%26+Functional+Web+Apps)
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Learning Journey
+## Learning Journey
 
 <div align="center">
 
@@ -225,7 +225,7 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120986-f9384dc9-4be0-494a-92d2-0c676e45d551.png" width="30" /> GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -284,7 +284,7 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 
 <br/>
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
 
 ### Let's Build Something Amazing Together!
 

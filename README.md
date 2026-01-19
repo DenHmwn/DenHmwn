@@ -241,7 +241,10 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 
 ### GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=DenHmwn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=DenHmwn&theme=tokyonight&no-frame=true&no-bg=true&cache_seconds=1800" 
+  width="100%" 
+/>
 
 ### Contribution Graph
 

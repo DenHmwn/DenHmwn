@@ -237,6 +237,7 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 
 
 <div align="center">
+
 ### Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenHmwn&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=FFFFFF&hide_border=true&area=true&area_color=667eea" width="100%"/>

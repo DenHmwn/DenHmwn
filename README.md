@@ -229,27 +229,10 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## GitHub Analytics
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-<img height="260px" width="100%"
-     src="https://github-readme-stats.vercel.app/api?username=DenHmwn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" />
-
-</td>
-<td width="50%" align="center">
-
-<img height="260px" width="100%"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenHmwn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" />
-
-</td>
-</tr>
-</table>
-
+<img height="260px" width="100%" src="https://github-readme-stats.vercel.app/api?username=DenHmwn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" />
+<!-- <br/><br/> -->
+<img height="260px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenHmwn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" />
+<!-- <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=DenHmwn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff" /> -->
 <div align="center">
 
 ### Contribution Graph

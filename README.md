@@ -232,7 +232,7 @@ Cross-platform mobile application for managing land sales, reservations, and pay
 ## GitHub Analytics
 
 <div>
-<img height="260px" width="49%" src="https://github-readme-stats.vercel.app/api?username=DenHmwn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" /><img height="260px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenHmwn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" />
+<img height="300px" width="49%" src="https://github-readme-stats.vercel.app/api?username=DenHmwn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" /><img height="300px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenHmwn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" />
 </div>
 
 

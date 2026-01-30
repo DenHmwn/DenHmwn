@@ -10,9 +10,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=denihimawan&label=Profile%20Views&color=667eea&style=for-the-badge&abbreviated=true" alt="profile views" />
-<img src="https://img.shields.io/github/followers/DenHmwn?label=Followers&style=for-the-badge&color=764ba2&logo=github" alt="followers" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">

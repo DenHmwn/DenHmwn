@@ -56,7 +56,7 @@
 ### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=5" />
 </p>
 
 </div>

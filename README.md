@@ -44,31 +44,19 @@
 ### Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express&perline=19" />
 </p>
 
 ### Database & ORM
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql&perline=8" />
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql&perline=3" />
 </p>
 
-### Development Tools
+### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,docker,linux&perline=8" />
-</p>
-
-### Mobile Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react&perline=6" />
-</p>
-
-### Learning & Exploring
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,redis,graphql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,docker&perline=7" />
 </p>
 
 </div>
@@ -111,7 +99,7 @@
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="30" /> Connect With Me
+## Connect With Me
 
 <div align="center">
 

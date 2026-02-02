@@ -10,25 +10,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=800&height=100&lines=Informatics+Student;Junior+Frontend+Developer)
 
-
-
 <br/>
 
 </div>
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
-<svg width="100%" height="4" viewBox="0 0 100 4" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="transparent"/>
-      <stop offset="50%" stop-color="#D21718"/>
-      <stop offset="100%" stop-color="transparent"/>
-    </linearGradient>
-  </defs>
-
-  <rect x="0" y="1" width="100" height="2" fill="url(#grad)" />
-</svg>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
 
 ## Tech Stack
 

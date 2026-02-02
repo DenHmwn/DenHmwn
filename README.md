@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<table>
+<!-- <table>
 <tr>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
@@ -39,7 +39,7 @@
 <br/><strong>Tools</strong>
 </td>
 </tr>
-</table>
+</table> -->
 
 ### Languages & Frameworks
 
